@@ -1,5 +1,7 @@
 <h1>Dynamic To-Do List</h1>
 
+<h2>Live Demo: https://arzoomansuri18.github.io/To-Do-List/</h2>
+
 <p>This project is a fully functional <b>To-Do List Application</b> built using <b>HTML, CSS and JavaScript.</b> Users can add tasks, mark them as completed, and delete tasks -everything updates dynamically without page reload.</p>
 
 <h2>Features</h2>
